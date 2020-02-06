@@ -13,7 +13,7 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/jerp86/2020_modulo01/stargazers">
+  <a href="https://github.com/roberthpereira/BCP_CHALLENGE01/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/roberthpereira/BCP_CHALLENGE01?style=social">
   </a>
 </p>
