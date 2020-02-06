@@ -1,6 +1,3 @@
-# BCP_CHALLENGE01
-🔥 Resolution of Challenge 01: Node.js concepts 🚀
-
 <h1 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
 </h1>
@@ -20,7 +17,7 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/jerp86/2020_desafio01/stargazers">
+  <a href="https://github.com/roberthpereira/BCP_CHALLENGE01/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/roberthpereira/BCP_CHALLENGE01?style=social">
   </a>
 </p>
@@ -83,7 +80,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/robe
 
 ---
 
-Made with ♥ by Roberth :wave: [Get in touch!][jerp]
+Made with ♥ by Roberth :wave: [Get in touch!][roberth]
 
 [nodejs]: https://nodejs.org/
 [express]: https://expressjs.com/
@@ -91,7 +88,7 @@ Made with ♥ by Roberth :wave: [Get in touch!][jerp]
 [npm]: https://www.npmjs.com/
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[jerp]: https://www.linkedin.com/in/jerp/
+[roberth]: https://www.linkedin.com/in/roberthpereira/
 [CRUD]: https://pt.wikipedia.org/wiki/CRUD
 [Middleware]: https://expressjs.com/pt-br/guide/writing-middleware.html
 [Insomnia]: https://insomnia.rest/
