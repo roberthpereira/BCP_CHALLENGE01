@@ -76,7 +76,7 @@ Debug APIs like a __human__, not a robot. Finally, a REST client you'll love
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/roberthperera/BCP_CHALLENGE01/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/roberthpereira/BCP_CHALLENGE01/blob/master/LICENSE) for more information.
 
 ---
 
