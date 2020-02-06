@@ -56,7 +56,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/robe
 
 ---
 
-Made with ♥ by Jerp :wave: [Get in touch!](https://www.linkedin.com/in/roberthpereira/)
+Made with ♥ by Roberth Pereira :wave: [Get in touch!](https://www.linkedin.com/in/roberthpereira/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
