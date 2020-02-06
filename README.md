@@ -39,16 +39,16 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 ## :fire: Installation and Execution
 
 1. Clone this repository;
-2. Enter the folder by running `cd 2020_modulo01`;
+2. Enter the folder by running `cd BCP_CHALLENGE01`;
 3. Run `yarn` or `npm install` to install the dependencies;
 4. Run `yarn dev` to start the server.
 
 ## :thinking: How to Contribute
 
 1. Fork this repository;
-2. Create a branch with your feature: `git checkout -b minha_feature`;
+2. Create a branch with your feature: `git checkout -b my_feature`;
 3. Commit your branch: `git commit -m "feature: My new feature"`;
-4. Push to your branch: `git push origin minha_feature`.
+4. Push to your branch: `git push origin my_feature`.
 
 ## :memo: License
 
