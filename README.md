@@ -12,16 +12,16 @@
 <blockquote align="center">“Your only limitation is yourself!”</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jerp86/2020_desafio01?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/roberthpereira/BCP_CHALLENGE01?color=%2304D361">
 
-  <a href="https://www.linkedin.com/in/jerp/">
-    <img alt="Made by Jerp" src="https://img.shields.io/badge/made%20by-Jerp-%2304D361">
+  <a href="https://www.linkedin.com/in/roberthpereira/">
+    <img alt="Made by Robrth" src="https://img.shields.io/badge/made%20by-Roberth Pereira-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
   <a href="https://github.com/jerp86/2020_desafio01/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/jerp86/2020_desafio01?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/roberthpereira/BCP_CHALLENGE01?style=social">
   </a>
 </p>
 
